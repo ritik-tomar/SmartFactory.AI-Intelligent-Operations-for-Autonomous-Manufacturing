@@ -1,0 +1,85 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:21.161484",
+    "machine_id": "L-R7V",
+    "temperature": 61.65,
+    "vibration": 0.68,
+    "rpm": 2662,
+    "pressure": 4.35,
+    "humidity": 46.9,
+    "voltage": 224.14,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.58 > 1.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:21.161490",
+    "machine_id": "H-YFR",
+    "temperature": 97.76,
+    "vibration": 1.93,
+    "rpm": 3026,
+    "pressure": 3.25,
+    "humidity": 43.4,
+    "voltage": 243.13,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.25 > 1.0",
+      "temperature": "\u0394 36.11 > 15.0",
+      "voltage": "\u0394 18.99 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:21.161495",
+    "machine_id": "H-P67",
+    "temperature": 60.04,
+    "vibration": 3.9463517748832038,
+    "rpm": 3078,
+    "pressure": 4.35,
+    "humidity": 67.21,
+    "voltage": 224.93,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 2.02 > 1.0",
+      "temperature": "\u0394 37.72 > 15.0",
+      "voltage": "\u0394 18.20 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:21.161500",
+    "machine_id": "O-IKW",
+    "temperature": 90.17,
+    "vibration": 1.24,
+    "rpm": 2683,
+    "pressure": 3.31,
+    "humidity": 53.28,
+    "voltage": 211.12,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 2.71 > 1.0",
+      "temperature": "\u0394 30.13 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:21.161505",
+    "machine_id": "C-38K",
+    "temperature": 66.6,
+    "vibration": 5.665196202546036,
+    "rpm": 2630,
+    "pressure": 7.03,
+    "humidity": 60.06,
+    "voltage": 237.98,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 4.43 > 1.0",
+      "temperature": "\u0394 23.57 > 15.0",
+      "voltage": "\u0394 26.86 > 15",
+      "pressure": "\u0394 3.72 > 3.0"
+    }
+  }
+]

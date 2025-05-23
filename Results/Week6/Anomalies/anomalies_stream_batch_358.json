@@ -1,0 +1,49 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:31.164090",
+    "machine_id": "Z-VM5",
+    "temperature": 63.09,
+    "vibration": 0.75,
+    "rpm": 2848,
+    "pressure": 3.3,
+    "humidity": 42.6,
+    "voltage": 242.58,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.02 > 1.0",
+      "temperature": "\u0394 29.78 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:31.164095",
+    "machine_id": "E-8KR",
+    "temperature": 62.18,
+    "vibration": 2.75,
+    "rpm": 2884,
+    "pressure": 5.26,
+    "humidity": 54.55,
+    "voltage": 228.56,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 2.00 > 1.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:31.164113",
+    "machine_id": "O-IKW",
+    "temperature": 66.35,
+    "vibration": 1.89,
+    "rpm": 2804,
+    "pressure": 3.98,
+    "humidity": 62.38,
+    "voltage": 215.63,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.73 > 1.0",
+      "voltage": "\u0394 17.78 > 15"
+    }
+  }
+]

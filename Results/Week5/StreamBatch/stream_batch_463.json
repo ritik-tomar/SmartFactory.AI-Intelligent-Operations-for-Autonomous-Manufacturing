@@ -1,0 +1,114 @@
+[
+  {
+    "timestamp": "2025-05-23T19:16:16.191664",
+    "machine_id": "U-GER",
+    "temperature": 77.58,
+    "vibration": 1.24,
+    "rpm": 2888,
+    "pressure": 6.08,
+    "humidity": 63.89,
+    "voltage": 212.99,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191718",
+    "machine_id": "W-NW7",
+    "temperature": 92.21,
+    "vibration": 2.27,
+    "rpm": 2937,
+    "pressure": 6.46,
+    "humidity": 41.16,
+    "voltage": 214.26,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191725",
+    "machine_id": "L-R7V",
+    "temperature": 90.43,
+    "vibration": 2.02,
+    "rpm": 2821,
+    "pressure": 4.01,
+    "humidity": 51.14,
+    "voltage": 239.23,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191731",
+    "machine_id": "E-HZH",
+    "temperature": 77.68,
+    "vibration": 5.533630166440593,
+    "rpm": 2758,
+    "pressure": 5.59,
+    "humidity": 30.24,
+    "voltage": 221.38,
+    "failure": 1,
+    "note": "anomaly_injected"
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191743",
+    "machine_id": "Z-IUB",
+    "temperature": 86.72,
+    "vibration": 2.52,
+    "rpm": 2709,
+    "pressure": 7.49,
+    "humidity": 38.01,
+    "voltage": 212.98,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191748",
+    "machine_id": "H-8IA",
+    "temperature": 90.49,
+    "vibration": 2.0,
+    "rpm": 3073,
+    "pressure": 5.67,
+    "humidity": 34.0,
+    "voltage": 244.17,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191754",
+    "machine_id": "H-DMP",
+    "temperature": 62.34,
+    "vibration": 1.36,
+    "rpm": 3058,
+    "pressure": 4.19,
+    "humidity": 47.45,
+    "voltage": 226.57,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191759",
+    "machine_id": "N-E9K",
+    "temperature": 98.85,
+    "vibration": 6.858955787727426,
+    "rpm": 2519,
+    "pressure": 4.12,
+    "humidity": 36.03,
+    "voltage": 230.87,
+    "failure": 1,
+    "note": "anomaly_injected"
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191773",
+    "machine_id": "H-OA8",
+    "temperature": 65.59,
+    "vibration": 2.11,
+    "rpm": 2533,
+    "pressure": 3.55,
+    "humidity": 59.47,
+    "voltage": 234.39,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:16.191776",
+    "machine_id": "G-2H4",
+    "temperature": 85.67,
+    "vibration": 1.64,
+    "rpm": 2973,
+    "pressure": 7.6,
+    "humidity": 57.29,
+    "voltage": 232.32,
+    "failure": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "timestamp": "2025-05-23T19:15:19.176268",
+    "machine_id": "S-UCN",
+    "temperature": 88.6,
+    "vibration": 2.13,
+    "rpm": 2538,
+    "pressure": 3.48,
+    "humidity": 47.81,
+    "voltage": 233.6,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 18.29 > 15.0",
+      "rpm": "\u0394 559.00 > 500",
+      "pressure": "\u0394 4.21 > 3.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:15:19.176273",
+    "machine_id": "E-DIF",
+    "temperature": 86.49,
+    "vibration": 2.57,
+    "rpm": 2799,
+    "pressure": 7.55,
+    "humidity": 57.19,
+    "voltage": 238.73,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "pressure": "\u0394 4.07 > 3.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:15:19.176279",
+    "machine_id": "R-A0T",
+    "temperature": 74.08,
+    "vibration": 2.47,
+    "rpm": 3057,
+    "pressure": 3.18,
+    "humidity": 35.97,
+    "voltage": 226.59,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "pressure": "\u0394 4.37 > 3.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:15:19.176285",
+    "machine_id": "R-6AE",
+    "temperature": 70.82,
+    "vibration": 2.46,
+    "rpm": 2993,
+    "pressure": 3.04,
+    "humidity": 41.06,
+    "voltage": 249.37,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 22.78 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:15:19.176290",
+    "machine_id": "E-DIF",
+    "temperature": 61.43,
+    "vibration": 2.56,
+    "rpm": 2864,
+    "pressure": 5.65,
+    "humidity": 51.54,
+    "voltage": 228.53,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 20.84 > 15"
+    }
+  }
+]

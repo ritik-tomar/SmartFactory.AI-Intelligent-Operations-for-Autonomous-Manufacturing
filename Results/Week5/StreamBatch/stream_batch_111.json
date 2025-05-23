@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:10:24.101423",
+    "machine_id": "E-8KR",
+    "temperature": 78.62,
+    "vibration": 2.9,
+    "rpm": 2841,
+    "pressure": 3.79,
+    "humidity": 32.95,
+    "voltage": 227.94,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101481",
+    "machine_id": "H-8IA",
+    "temperature": 62.72,
+    "vibration": 2.18,
+    "rpm": 2859,
+    "pressure": 4.94,
+    "humidity": 33.39,
+    "voltage": 239.87,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101489",
+    "machine_id": "H-V4L",
+    "temperature": 79.57,
+    "vibration": 1.22,
+    "rpm": 2974,
+    "pressure": 7.79,
+    "humidity": 52.03,
+    "voltage": 224.7,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101495",
+    "machine_id": "L-T1T",
+    "temperature": 89.65,
+    "vibration": 2.84,
+    "rpm": 2709,
+    "pressure": 5.63,
+    "humidity": 55.2,
+    "voltage": 227.73,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101501",
+    "machine_id": "Q-K9Y",
+    "temperature": 65.26,
+    "vibration": 0.73,
+    "rpm": 2527,
+    "pressure": 6.46,
+    "humidity": 53.94,
+    "voltage": 226.29,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101507",
+    "machine_id": "N-BR5",
+    "temperature": 79.15,
+    "vibration": 2.15,
+    "rpm": 2657,
+    "pressure": 5.29,
+    "humidity": 48.22,
+    "voltage": 231.33,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101513",
+    "machine_id": "N-E9K",
+    "temperature": 92.76,
+    "vibration": 2.25,
+    "rpm": 2944,
+    "pressure": 5.04,
+    "humidity": 50.85,
+    "voltage": 239.21,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101520",
+    "machine_id": "S-5FZ",
+    "temperature": 93.28,
+    "vibration": 2.22,
+    "rpm": 2932,
+    "pressure": 3.78,
+    "humidity": 52.85,
+    "voltage": 236.87,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101526",
+    "machine_id": "L-TK6",
+    "temperature": 62.14,
+    "vibration": 0.92,
+    "rpm": 2752,
+    "pressure": 3.9,
+    "humidity": 38.76,
+    "voltage": 215.91,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:24.101532",
+    "machine_id": "E-833",
+    "temperature": 69.78,
+    "vibration": 2.62,
+    "rpm": 2896,
+    "pressure": 7.7,
+    "humidity": 36.19,
+    "voltage": 237.51,
+    "failure": 0
+  }
+]

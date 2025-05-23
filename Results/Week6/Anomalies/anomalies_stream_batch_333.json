@@ -1,0 +1,85 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:06.157608",
+    "machine_id": "H-55H",
+    "temperature": 60.48,
+    "vibration": 6.059418965639523,
+    "rpm": 2903,
+    "pressure": 5.03,
+    "humidity": 31.6,
+    "voltage": 248.7,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 5.24 > 1.0",
+      "temperature": "\u0394 22.50 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:06.157621",
+    "machine_id": "N-E9K",
+    "temperature": 75.48,
+    "vibration": 2.33,
+    "rpm": 2854,
+    "pressure": 4.79,
+    "humidity": 65.8,
+    "voltage": 213.34,
+    "failure": 1,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 3.73 > 1.0",
+      "temperature": "\u0394 15.00 > 15.0",
+      "voltage": "\u0394 35.36 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:06.157627",
+    "machine_id": "Q-K9Y",
+    "temperature": 96.04,
+    "vibration": 1.05,
+    "rpm": 2558,
+    "pressure": 6.84,
+    "humidity": 51.63,
+    "voltage": 245.16,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.28 > 1.0",
+      "temperature": "\u0394 20.56 > 15.0",
+      "voltage": "\u0394 31.82 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:06.157633",
+    "machine_id": "E-833",
+    "temperature": 63.2,
+    "vibration": 2.68,
+    "rpm": 2574,
+    "pressure": 3.95,
+    "humidity": 64.16,
+    "voltage": 244.66,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.63 > 1.0",
+      "temperature": "\u0394 32.84 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:06.157639",
+    "machine_id": "H-V4L",
+    "temperature": 97.36,
+    "vibration": 2.63,
+    "rpm": 2953,
+    "pressure": 7.07,
+    "humidity": 60.28,
+    "voltage": 212.67,
+    "failure": 1,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 34.16 > 15.0",
+      "voltage": "\u0394 31.99 > 15",
+      "pressure": "\u0394 3.12 > 3.0"
+    }
+  }
+]

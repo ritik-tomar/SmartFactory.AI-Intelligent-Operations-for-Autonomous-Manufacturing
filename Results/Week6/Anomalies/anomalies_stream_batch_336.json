@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:09.158379",
+    "machine_id": "E-8KR",
+    "temperature": 62.37,
+    "vibration": 1.71,
+    "rpm": 2683,
+    "pressure": 6.57,
+    "humidity": 46.56,
+    "voltage": 243.4,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 15.53 > 15"
+    }
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:10:39.104868",
+    "machine_id": "S-UCN",
+    "temperature": 86.12,
+    "vibration": 2.2,
+    "rpm": 2524,
+    "pressure": 7.84,
+    "humidity": 64.72,
+    "voltage": 227.35,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104924",
+    "machine_id": "Y-09D",
+    "temperature": 71.11,
+    "vibration": 2.39,
+    "rpm": 2923,
+    "pressure": 4.32,
+    "humidity": 39.45,
+    "voltage": 246.33,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104933",
+    "machine_id": "U-9RY",
+    "temperature": 63.87,
+    "vibration": 1.29,
+    "rpm": 3099,
+    "pressure": 7.83,
+    "humidity": 37.76,
+    "voltage": 237.68,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104960",
+    "machine_id": "X-PYA",
+    "temperature": 69.15,
+    "vibration": 2.06,
+    "rpm": 2768,
+    "pressure": 6.44,
+    "humidity": 46.07,
+    "voltage": 218.01,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104966",
+    "machine_id": "U-QMA",
+    "temperature": 68.02,
+    "vibration": 1.95,
+    "rpm": 2883,
+    "pressure": 5.66,
+    "humidity": 63.92,
+    "voltage": 219.44,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104970",
+    "machine_id": "L-R7V",
+    "temperature": 77.2,
+    "vibration": 2.55,
+    "rpm": 2881,
+    "pressure": 4.03,
+    "humidity": 42.42,
+    "voltage": 246.76,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104973",
+    "machine_id": "P-XRH",
+    "temperature": 81.81,
+    "vibration": 0.85,
+    "rpm": 2991,
+    "pressure": 7.61,
+    "humidity": 55.9,
+    "voltage": 226.5,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104977",
+    "machine_id": "U-GER",
+    "temperature": 75.89,
+    "vibration": 1.98,
+    "rpm": 2948,
+    "pressure": 3.17,
+    "humidity": 33.15,
+    "voltage": 226.81,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104980",
+    "machine_id": "M-TZ4",
+    "temperature": 61.16,
+    "vibration": 2.04,
+    "rpm": 2500,
+    "pressure": 6.18,
+    "humidity": 46.38,
+    "voltage": 226.53,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:39.104983",
+    "machine_id": "V-221",
+    "temperature": 94.68,
+    "vibration": 1.9,
+    "rpm": 2580,
+    "pressure": 6.02,
+    "humidity": 34.39,
+    "voltage": 224.42,
+    "failure": 0
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:09.158275",
+    "machine_id": "N-PR7",
+    "temperature": 83.71,
+    "vibration": 2.09,
+    "rpm": 2602,
+    "pressure": 4.01,
+    "humidity": 64.49,
+    "voltage": 210.95,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158336",
+    "machine_id": "N-E9K",
+    "temperature": 72.01,
+    "vibration": 2.67,
+    "rpm": 2814,
+    "pressure": 6.33,
+    "humidity": 49.82,
+    "voltage": 226.41,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158345",
+    "machine_id": "H-P67",
+    "temperature": 78.25,
+    "vibration": 0.72,
+    "rpm": 2918,
+    "pressure": 6.74,
+    "humidity": 44.8,
+    "voltage": 224.86,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158352",
+    "machine_id": "I-4ZH",
+    "temperature": 87.84,
+    "vibration": 1.42,
+    "rpm": 2931,
+    "pressure": 7.05,
+    "humidity": 63.96,
+    "voltage": 221.0,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158358",
+    "machine_id": "X-4ED",
+    "temperature": 80.94,
+    "vibration": 1.37,
+    "rpm": 2634,
+    "pressure": 4.28,
+    "humidity": 60.43,
+    "voltage": 221.6,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158363",
+    "machine_id": "H-V4L",
+    "temperature": 83.19,
+    "vibration": 1.77,
+    "rpm": 2971,
+    "pressure": 5.2,
+    "humidity": 38.28,
+    "voltage": 222.21,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158369",
+    "machine_id": "E-DIF",
+    "temperature": 69.57,
+    "vibration": 0.85,
+    "rpm": 2879,
+    "pressure": 4.31,
+    "humidity": 69.61,
+    "voltage": 216.17,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158374",
+    "machine_id": "T-T49",
+    "temperature": 62.41,
+    "vibration": 1.04,
+    "rpm": 2995,
+    "pressure": 5.92,
+    "humidity": 61.7,
+    "voltage": 227.87,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158379",
+    "machine_id": "E-8KR",
+    "temperature": 62.37,
+    "vibration": 1.71,
+    "rpm": 2683,
+    "pressure": 6.57,
+    "humidity": 46.56,
+    "voltage": 243.4,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:09.158384",
+    "machine_id": "F-TR1",
+    "temperature": 69.05,
+    "vibration": 0.78,
+    "rpm": 3009,
+    "pressure": 4.77,
+    "humidity": 59.14,
+    "voltage": 239.51,
+    "failure": 0
+  }
+]

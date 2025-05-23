@@ -1,0 +1,2502 @@
+[
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_0.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:34.086316"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_1.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:34.093492"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_2.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:35.082576"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_3.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:36.081535"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_4.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:37.081215"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_5.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:38.097652"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_6.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:39.081978"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_7.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:40.082033"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_8.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:41.082093"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_9.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:42.083100"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_10.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:43.083113"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_11.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:44.084063"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_12.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:45.084020"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_13.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:46.083869"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_14.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:47.083702"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_15.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:48.084311"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_16.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:49.084386"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_17.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:50.085697"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_18.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:51.103743"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_19.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:52.084978"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_20.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:53.086093"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_21.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:54.086428"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_22.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:55.087082"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_23.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:56.085461"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_24.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:57.086999"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_25.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:58.087077"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_26.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:08:59.087997"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_27.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:00.087647"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_28.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:01.103525"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_29.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:02.088459"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_30.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:03.087233"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_31.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:04.088437"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_32.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:05.089060"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_33.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:06.089399"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_34.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:07.089195"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_35.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:08.089824"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_36.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:09.089397"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_37.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:10.090678"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_38.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:11.089088"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_39.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:12.090266"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_40.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:13.090967"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_41.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:14.091572"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_42.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:15.090232"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_43.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:16.091080"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_44.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:17.091152"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_45.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:18.091467"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_46.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:19.091589"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_47.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:20.091713"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_48.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:21.093319"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_49.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:22.093653"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_50.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:23.093634"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_51.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:24.110236"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_52.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:25.093005"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_53.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:26.093457"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_54.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:27.094049"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_55.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:28.093120"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_56.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:29.094530"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_57.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:30.093489"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_58.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:31.094219"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_59.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:32.094846"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_60.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:33.095231"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_61.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:34.096307"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_62.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:35.096572"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_63.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:36.096319"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_64.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:37.096065"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_65.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:38.096893"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_66.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:39.096275"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_67.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:40.097384"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_68.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:41.097069"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_69.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:42.096832"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_70.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:43.096904"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_71.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:44.098534"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_72.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:45.114180"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_73.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:46.098020"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_74.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:47.097853"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_75.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:48.097849"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_76.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:49.098435"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_77.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:50.099833"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_78.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:51.099647"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_79.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:52.099219"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_80.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:53.100713"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_81.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:54.100570"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_82.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:55.100760"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_83.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:56.114179"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_84.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:57.101173"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_85.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:58.101484"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_86.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:09:59.100248"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_87.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:00.101446"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_88.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:01.101740"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_89.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:02.101831"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_90.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:03.102145"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_91.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:04.103403"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_92.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:05.103114"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_93.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:06.103245"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_94.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:07.103413"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_95.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:08.103824"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_96.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:09.104168"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_97.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:10.104009"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_98.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:11.103508"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_99.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:12.104700"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_100.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:13.104228"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_101.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:14.105538"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_102.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:15.105255"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_103.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:16.105886"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_104.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:17.106288"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_105.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:18.106580"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_106.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:19.106750"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_107.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:20.106553"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_108.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:21.106301"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_109.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:22.106434"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_110.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:23.106779"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_111.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:24.108124"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_112.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:25.107804"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_113.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:26.107341"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_114.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:27.107656"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_115.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:28.108585"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_116.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:29.109134"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_117.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:30.126655"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_118.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:31.109629"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_119.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:32.109346"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_120.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:33.110361"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_121.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:34.109255"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_122.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:35.110296"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_123.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:36.110829"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_124.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:37.111531"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_125.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:38.110297"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_126.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:39.111603"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_127.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:40.112122"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_128.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:41.132141"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_129.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:42.112107"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_130.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:43.111731"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_131.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:44.111742"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_132.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:45.113241"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_133.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:46.113796"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_134.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:47.112842"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_135.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:48.115332"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_136.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:49.113801"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_137.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:50.113826"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_138.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:51.114161"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_139.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:52.114752"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_140.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:53.114174"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_141.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:54.114256"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_142.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:55.114958"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_143.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:56.115761"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_144.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:57.115819"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_145.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:58.115689"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_146.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:10:59.116307"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_147.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:00.117689"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_148.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:01.117608"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_149.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:02.118284"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_150.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:03.116983"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_151.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:04.117728"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_152.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:05.117679"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_153.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:06.117309"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_154.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:07.117362"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_155.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:08.118545"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_156.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:09.118456"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_157.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:10.119005"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_158.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:11.119493"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_159.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:12.119256"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_160.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:13.120599"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_161.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:14.135250"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_162.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:15.119515"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_163.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:16.119869"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_164.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:17.121075"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_165.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:18.121244"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_166.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:19.120993"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_167.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:20.120724"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_168.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:21.121493"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_169.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:22.122805"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_170.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:23.121271"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_171.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:24.121928"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_172.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:25.137583"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_173.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:26.122984"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_174.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:27.123260"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_175.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:28.123691"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_176.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:29.123649"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_177.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:30.123587"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_178.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:31.124595"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_179.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:32.124891"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_180.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:33.125840"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_181.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:34.124479"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_182.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:35.124719"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_183.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:36.125739"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_184.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:37.147795"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_185.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:38.126119"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_186.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:39.126861"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_187.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:40.126641"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_188.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:41.126760"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_189.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:42.126783"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_190.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:43.127787"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_191.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:44.127423"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_192.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:45.128433"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_193.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:46.128180"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_194.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:47.128224"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_195.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:48.149554"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_196.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:49.128347"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_197.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:50.129112"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_198.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:51.129799"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_199.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:52.129576"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_200.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:53.131042"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_201.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:54.131102"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_202.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:55.131131"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_203.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:56.130478"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_204.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:57.131674"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_205.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:58.130531"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_206.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:11:59.131294"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_207.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:00.131190"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_208.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:01.131370"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_209.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:02.131976"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_210.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:03.132461"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_211.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:04.133108"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_212.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:05.133738"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_213.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:06.133726"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_214.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:07.134158"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_215.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:08.134187"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_216.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:09.135662"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_217.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:10.134129"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_218.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:11.133819"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_219.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:12.134859"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_220.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:13.135557"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_221.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:14.135394"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_222.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:15.135404"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_223.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:16.136613"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_224.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:17.135269"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_225.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:18.135969"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_226.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:19.154318"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_227.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:20.136684"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_228.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:21.136933"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_229.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:22.137449"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_230.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:23.137629"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_231.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:24.137863"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_232.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:25.138322"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_233.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:26.138043"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_234.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:27.137856"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_235.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:28.140051"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_236.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:29.139832"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_237.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:30.156296"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_238.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:31.139735"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_239.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:32.140131"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_240.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:33.140354"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_241.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:34.140314"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_242.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:35.140881"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_243.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:36.141203"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_244.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:37.140875"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_245.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:38.141637"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_246.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:39.141540"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_247.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:40.142255"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_248.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:41.156329"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_249.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:42.141501"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_250.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:43.142037"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_251.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:44.143404"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_252.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:45.142392"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_253.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:46.143430"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_254.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:47.143979"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_255.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:48.143684"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_256.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:49.143253"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_257.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:50.144977"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_258.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:51.144975"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_259.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:52.144753"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_260.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:53.145506"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_261.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:54.145534"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_262.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:55.145998"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_263.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:56.145718"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_264.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:57.145793"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_265.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:58.146404"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_266.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:12:59.147351"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_267.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:00.147409"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_268.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:01.147783"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_269.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:02.147842"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_270.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:03.147444"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_271.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:04.147995"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_272.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:05.147966"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_273.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:06.148752"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_274.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:07.148893"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_275.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:08.149055"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_276.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:09.149326"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_277.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:10.149363"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_278.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:11.149627"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_279.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:12.150881"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_280.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:13.150899"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_281.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:14.169322"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_282.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:15.150495"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_283.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:16.151922"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_284.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:17.151875"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_285.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:18.151713"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_286.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:19.151985"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_287.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:20.152151"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_288.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:21.151891"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_289.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:22.153340"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_290.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:23.152851"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_291.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:24.153809"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_292.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:25.168776"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_293.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:26.153390"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_294.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:27.153487"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_295.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:28.153560"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_296.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:29.153633"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_297.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:30.155143"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_298.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:31.155970"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_299.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:32.154860"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_300.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:33.155013"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_301.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:34.155492"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_302.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:35.155990"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_303.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:36.173555"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_304.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:37.157508"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_305.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:38.156718"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_306.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:39.156926"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_307.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:40.156786"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_308.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:41.156562"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_309.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:42.157141"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_310.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:43.157648"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_311.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:44.158789"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_312.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:45.158262"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_313.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:46.159342"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_314.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:47.159285"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_315.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:48.159293"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_316.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:49.159795"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_317.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:50.160678"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_318.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:51.160477"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_319.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:52.160563"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_320.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:53.160506"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_321.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:54.161236"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_322.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:55.161249"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_323.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:56.160734"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_324.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:57.176473"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_325.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:58.161813"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_326.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:13:59.162476"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_327.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:00.163189"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_328.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:01.161890"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_329.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:02.162974"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_330.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:03.164310"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_331.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:04.162610"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_332.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:05.162920"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_333.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:06.164513"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_334.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:07.164540"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_335.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:08.182686"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_336.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:09.164553"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_337.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:10.165065"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_338.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:11.165198"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_339.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:12.165484"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_340.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:13.165678"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_341.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:14.166251"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_342.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:15.166276"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_343.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:16.166140"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_344.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:17.166447"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_345.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:18.170649"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_346.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:19.166757"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_347.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:20.167323"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_348.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:21.168174"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_349.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:22.168285"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_350.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:23.169075"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_351.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:24.168993"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_352.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:25.170044"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_353.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:26.169579"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_354.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:27.170058"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_355.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:28.186631"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_356.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:29.169832"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_357.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:30.170200"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_358.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:31.170642"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_359.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:32.171031"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_360.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:33.170761"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_361.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:34.171052"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_362.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:35.171592"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_363.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:36.171522"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_364.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:37.172112"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_365.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:38.175090"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_366.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:39.172301"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_367.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:40.173231"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_368.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:41.172975"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_369.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:42.173128"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_370.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:43.172849"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_371.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:44.174068"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_372.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:45.174076"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_373.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:46.174846"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_374.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:47.173567"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_375.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:48.173502"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_376.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:49.174640"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_377.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:50.175413"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_378.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:51.175249"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_379.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:52.175288"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_380.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:53.174907"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_381.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:54.175452"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_382.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:55.176495"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_383.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:56.176432"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_384.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:57.176613"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_385.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:58.176437"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_386.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:14:59.192405"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_387.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:00.176903"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_388.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:01.177237"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_389.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:02.177029"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_390.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:03.177869"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_391.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:04.178606"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_392.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:05.178380"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_393.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:06.178557"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_394.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:07.178770"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_395.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:08.185822"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_396.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:09.179867"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_397.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:10.215385"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_398.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:11.180904"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_399.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:12.180768"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_400.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:13.186733"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_401.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:14.183666"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_402.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:15.182086"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_403.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:16.181888"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_404.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:17.181985"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_405.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:18.182478"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_406.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:19.182901"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_407.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:20.182625"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_408.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:21.204783"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_409.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:22.183173"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_410.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:23.183792"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_411.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:24.183538"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_412.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:25.184510"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_413.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:26.184405"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_414.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:27.184494"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_415.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:28.186092"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_416.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:29.185191"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_417.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:30.185937"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_418.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:31.185737"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_419.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:32.185555"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_420.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:33.187096"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_421.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:34.187088"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_422.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:35.188266"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_423.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:36.188052"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_424.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:37.187300"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_425.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:38.188662"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_426.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:39.188049"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_427.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:40.190510"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_428.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:41.188968"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_429.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:42.190034"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_430.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:43.205191"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_431.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:44.190274"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_432.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:45.191234"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_433.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:46.191484"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_434.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:47.191439"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_435.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:48.190769"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_436.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:49.191207"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_437.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:50.192031"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_438.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:51.191978"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_439.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:52.193239"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_440.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:53.208292"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_441.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:54.193049"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_442.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:55.192781"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_443.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:56.194136"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_444.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:57.193835"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_445.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:58.193822"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_446.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:15:59.196513"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_447.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:00.194298"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_448.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:01.194590"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_449.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:02.194284"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_450.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:03.195115"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_451.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:04.195305"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_452.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:05.214572"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_453.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:06.195440"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_454.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:07.195802"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_455.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:08.196739"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_456.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:09.196270"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_457.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:10.196729"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_458.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:11.197085"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_459.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:12.197274"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_460.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:13.197091"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_461.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:14.197501"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_462.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:15.213183"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_463.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:16.197800"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_464.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:17.198695"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_465.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:18.197986"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_466.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:19.199981"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_467.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:20.198354"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_468.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:21.198329"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_469.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:22.198973"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_470.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:23.199572"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_471.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:24.200477"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_472.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:25.200847"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_473.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:26.218473"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_474.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:27.200098"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_475.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:28.200820"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_476.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:29.201053"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_477.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:30.201004"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_478.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:31.200999"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_479.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:32.202085"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_480.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:33.202736"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_481.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:34.202444"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_482.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:35.203767"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_483.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:36.203744"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_484.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:37.219043"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_485.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:38.202699"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_486.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:39.204484"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_487.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:40.203366"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_488.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:41.203658"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_489.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:42.203836"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_490.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:43.204254"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_491.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:44.204893"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_492.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:45.204974"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_493.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:46.205103"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_494.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:47.206286"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_495.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:48.218823"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_496.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:49.205756"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_497.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:50.206528"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_498.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:51.206330"
+  },
+  {
+    "batch_file": "/content/drive/MyDrive/SmartFactory/Results/Week5/StreamBatch/stream_batch_499.json",
+    "records": 10,
+    "timestamp": "2025-05-23T19:16:52.207490"
+  }
+]

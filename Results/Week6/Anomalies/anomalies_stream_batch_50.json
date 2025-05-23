@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2025-05-23T19:09:23.086318",
+    "machine_id": "E-833",
+    "temperature": 93.7,
+    "vibration": 0.66,
+    "rpm": 2931,
+    "pressure": 3.56,
+    "humidity": 43.01,
+    "voltage": 225.0,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 21.71 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:09:23.086330",
+    "machine_id": "C-SGE",
+    "temperature": 78.78,
+    "vibration": 4.227787558144731,
+    "rpm": 2718,
+    "pressure": 5.94,
+    "humidity": 40.99,
+    "voltage": 222.86,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 3.09 > 1.0",
+      "temperature": "\u0394 15.83 > 15.0"
+    }
+  }
+]

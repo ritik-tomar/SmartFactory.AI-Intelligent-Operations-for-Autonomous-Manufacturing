@@ -1,0 +1,29 @@
+
+SmartFactory.AI Staff Training - Extended Edition:
+
+1. Failure Trends:
+   - Review daily failure counts and total failures per machine.
+   - Identify machines with high failure frequency for prioritized monitoring.
+
+2. Scheduling Insights:
+   - Monitor workload distribution and delays via heatmaps.
+   - Understand impact of job priorities on scheduling and delays.
+
+3. Sensor Data Analysis:
+   - Examine PCA results for sensor data dimension reduction.
+   - Interpret sensor trends leading to failures to predict maintenance needs.
+
+4. Correlation and Feature Impact:
+   - Use correlation matrices to understand sensor interdependencies.
+   - Prioritize features based on model-derived importance for focused monitoring.
+
+5. Practical Applications:
+   - Use dashboards to guide rescheduling and preventive maintenance.
+   - Apply training visuals to recognize early failure signals.
+
+6. Training Materials:
+   - Review saved plots and dashboards regularly.
+   - Access detailed image resources in the training_materials directory.
+
+For more interactive sessions and quizzes, access the SmartFactory Learning Portal.
+

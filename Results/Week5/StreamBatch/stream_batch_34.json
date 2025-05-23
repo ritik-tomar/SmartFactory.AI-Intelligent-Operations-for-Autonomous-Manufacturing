@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:09:07.082638",
+    "machine_id": "E-DIF",
+    "temperature": 74.77,
+    "vibration": 1.01,
+    "rpm": 2608,
+    "pressure": 7.55,
+    "humidity": 35.07,
+    "voltage": 236.74,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082696",
+    "machine_id": "N-E9K",
+    "temperature": 64.11,
+    "vibration": 1.0,
+    "rpm": 2833,
+    "pressure": 3.13,
+    "humidity": 61.04,
+    "voltage": 226.8,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082704",
+    "machine_id": "M-8EP",
+    "temperature": 85.98,
+    "vibration": 1.05,
+    "rpm": 3004,
+    "pressure": 7.93,
+    "humidity": 63.44,
+    "voltage": 225.71,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082711",
+    "machine_id": "T-T49",
+    "temperature": 90.68,
+    "vibration": 2.26,
+    "rpm": 2671,
+    "pressure": 5.36,
+    "humidity": 46.87,
+    "voltage": 245.8,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082717",
+    "machine_id": "L-TK6",
+    "temperature": 71.85,
+    "vibration": 2.11,
+    "rpm": 2998,
+    "pressure": 4.58,
+    "humidity": 65.65,
+    "voltage": 240.04,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082723",
+    "machine_id": "L-I3L",
+    "temperature": 62.97,
+    "vibration": 1.31,
+    "rpm": 2711,
+    "pressure": 5.8,
+    "humidity": 63.46,
+    "voltage": 245.14,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082727",
+    "machine_id": "A-M1A",
+    "temperature": 80.48,
+    "vibration": 1.44,
+    "rpm": 2698,
+    "pressure": 6.1,
+    "humidity": 34.49,
+    "voltage": 219.59,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082733",
+    "machine_id": "N-BR5",
+    "temperature": 79.75,
+    "vibration": 0.82,
+    "rpm": 2583,
+    "pressure": 7.07,
+    "humidity": 59.65,
+    "voltage": 227.46,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082738",
+    "machine_id": "E-DIF",
+    "temperature": 71.59,
+    "vibration": 2.39,
+    "rpm": 3081,
+    "pressure": 3.49,
+    "humidity": 46.53,
+    "voltage": 249.45,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:09:07.082744",
+    "machine_id": "N-E9K",
+    "temperature": 76.01,
+    "vibration": 0.98,
+    "rpm": 2789,
+    "pressure": 5.36,
+    "humidity": 63.4,
+    "voltage": 239.53,
+    "failure": 0
+  }
+]

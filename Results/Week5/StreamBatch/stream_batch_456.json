@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:16:09.189926",
+    "machine_id": "O-9DS",
+    "temperature": 67.35,
+    "vibration": 1.68,
+    "rpm": 2764,
+    "pressure": 7.76,
+    "humidity": 36.23,
+    "voltage": 224.81,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190010",
+    "machine_id": "Z-9VU",
+    "temperature": 60.38,
+    "vibration": 2.18,
+    "rpm": 2860,
+    "pressure": 7.74,
+    "humidity": 56.3,
+    "voltage": 249.17,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190019",
+    "machine_id": "C-SGE",
+    "temperature": 78.12,
+    "vibration": 1.39,
+    "rpm": 2547,
+    "pressure": 7.01,
+    "humidity": 40.69,
+    "voltage": 242.28,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190025",
+    "machine_id": "Q-K9Y",
+    "temperature": 98.5,
+    "vibration": 2.15,
+    "rpm": 2845,
+    "pressure": 5.94,
+    "humidity": 42.7,
+    "voltage": 238.02,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190030",
+    "machine_id": "H-P67",
+    "temperature": 67.16,
+    "vibration": 0.69,
+    "rpm": 2892,
+    "pressure": 4.15,
+    "humidity": 33.9,
+    "voltage": 217.48,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190036",
+    "machine_id": "U-9RY",
+    "temperature": 90.19,
+    "vibration": 1.25,
+    "rpm": 2509,
+    "pressure": 6.72,
+    "humidity": 30.54,
+    "voltage": 235.12,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190040",
+    "machine_id": "H-OA8",
+    "temperature": 96.29,
+    "vibration": 1.43,
+    "rpm": 2807,
+    "pressure": 5.21,
+    "humidity": 68.27,
+    "voltage": 221.01,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190043",
+    "machine_id": "J-Z28",
+    "temperature": 65.74,
+    "vibration": 0.95,
+    "rpm": 3096,
+    "pressure": 3.23,
+    "humidity": 64.75,
+    "voltage": 243.85,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190075",
+    "machine_id": "R-A0T",
+    "temperature": 71.96,
+    "vibration": 2.94,
+    "rpm": 2836,
+    "pressure": 5.85,
+    "humidity": 39.01,
+    "voltage": 247.97,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:16:09.190079",
+    "machine_id": "A-OUX",
+    "temperature": 65.95,
+    "vibration": 2.69,
+    "rpm": 2536,
+    "pressure": 3.32,
+    "humidity": 49.9,
+    "voltage": 239.2,
+    "failure": 0
+  }
+]

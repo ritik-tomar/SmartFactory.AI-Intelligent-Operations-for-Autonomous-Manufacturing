@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2025-05-23T19:09:59.095315",
+    "machine_id": "M-2G0",
+    "temperature": 70.03,
+    "vibration": 2.85,
+    "rpm": 2931,
+    "pressure": 7.93,
+    "humidity": 52.19,
+    "voltage": 239.23,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 22.36 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:09:59.095340",
+    "machine_id": "R-6AE",
+    "temperature": 64.96,
+    "vibration": 1.83,
+    "rpm": 2919,
+    "pressure": 7.32,
+    "humidity": 33.01,
+    "voltage": 224.4,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 18.30 > 15.0"
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": "2025-05-23T19:08:39.075332",
+    "machine_id": "M-TZ4",
+    "temperature": 79.33,
+    "vibration": 0.89,
+    "rpm": 2572,
+    "pressure": 4.1,
+    "humidity": 40.45,
+    "voltage": 214.88,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075398",
+    "machine_id": "D-OU4",
+    "temperature": 64.16,
+    "vibration": 1.11,
+    "rpm": 2817,
+    "pressure": 4.52,
+    "humidity": 62.28,
+    "voltage": 213.85,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075406",
+    "machine_id": "V-221",
+    "temperature": 88.87,
+    "vibration": 2.18,
+    "rpm": 2928,
+    "pressure": 5.16,
+    "humidity": 34.7,
+    "voltage": 211.65,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075412",
+    "machine_id": "E-HZH",
+    "temperature": 87.93,
+    "vibration": 1.77,
+    "rpm": 3066,
+    "pressure": 7.21,
+    "humidity": 66.57,
+    "voltage": 210.95,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075420",
+    "machine_id": "U-GER",
+    "temperature": 60.73,
+    "vibration": 2.02,
+    "rpm": 2645,
+    "pressure": 4.78,
+    "humidity": 57.02,
+    "voltage": 221.27,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075426",
+    "machine_id": "M-TZ4",
+    "temperature": 70.15,
+    "vibration": 0.84,
+    "rpm": 2927,
+    "pressure": 5.44,
+    "humidity": 53.86,
+    "voltage": 221.36,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075433",
+    "machine_id": "M-8EP",
+    "temperature": 96.72,
+    "vibration": 1.82,
+    "rpm": 3041,
+    "pressure": 5.99,
+    "humidity": 38.78,
+    "voltage": 226.65,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075439",
+    "machine_id": "A-M1A",
+    "temperature": 61.87,
+    "vibration": 0.67,
+    "rpm": 2603,
+    "pressure": 4.51,
+    "humidity": 33.07,
+    "voltage": 246.35,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075445",
+    "machine_id": "M-8EP",
+    "temperature": 85.73,
+    "vibration": 4.729594632088541,
+    "rpm": 2697,
+    "pressure": 3.46,
+    "humidity": 40.7,
+    "voltage": 241.03,
+    "failure": 1,
+    "note": "anomaly_injected"
+  },
+  {
+    "timestamp": "2025-05-23T19:08:39.075459",
+    "machine_id": "A-OUX",
+    "temperature": 82.64,
+    "vibration": 1.8,
+    "rpm": 3078,
+    "pressure": 3.25,
+    "humidity": 57.06,
+    "voltage": 219.67,
+    "failure": 0
+  }
+]

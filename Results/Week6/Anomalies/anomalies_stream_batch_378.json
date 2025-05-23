@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:51.168836",
+    "machine_id": "L-U6X",
+    "temperature": 74.52,
+    "vibration": 2.11,
+    "rpm": 2945,
+    "pressure": 6.19,
+    "humidity": 39.5,
+    "voltage": 222.03,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.54 > 1.0",
+      "temperature": "\u0394 19.55 > 15.0",
+      "voltage": "\u0394 17.33 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:51.168841",
+    "machine_id": "B-3OR",
+    "temperature": 98.15,
+    "vibration": 2.17,
+    "rpm": 2695,
+    "pressure": 4.26,
+    "humidity": 56.45,
+    "voltage": 222.58,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 23.63 > 15.0"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+job_id,feedback_timestamp,operator_id,satisfaction_score,comments
+JOB-C-SGE-60,2025-05-20,op_2,1,Great predictive accuracy
+JOB-L-R7V-0,2025-05-16,op_2,1,Unexpected failure
+JOB-R-A0T-80,2025-05-21,op_2,2,Needs better alerts
+JOB-L-U6X-60,2025-05-04,op_1,2,Needs better alerts
+JOB-Y-09D-0,2025-05-02,op_1,4,Needs better alerts
+JOB-W-MVC-20,2025-05-26,op_3,3,Unexpected failure
+JOB-H-P67-0,2025-05-28,op_3,2,System worked well
+JOB-S-5FZ-20,2025-05-28,op_1,2,Unexpected failure
+JOB-Y-09D-80,2025-05-22,op_2,5,Unexpected failure
+JOB-M-2G0-0,2025-05-09,op_3,1,Unexpected failure
+JOB-H-8IA-0,2025-05-28,op_2,4,Needs better alerts
+JOB-S-UCN-0,2025-05-17,op_2,2,UI was intuitive
+JOB-V-221-0,2025-05-23,op_1,4,Needs better alerts
+JOB-H-P67-80,2025-05-19,op_2,2,UI was intuitive
+JOB-R-A0T-0,2025-05-17,op_3,1,Some delay observed
+JOB-I-4ZH-40,2025-05-19,op_3,2,UI was intuitive
+JOB-R-6AE-60,2025-05-26,op_1,1,Unexpected failure
+JOB-F-TR1-0,2025-05-10,op_2,4,Some delay observed
+JOB-R-T9I-60,2025-05-29,op_3,1,System worked well
+JOB-W-NW7-40,2025-05-09,op_1,4,UI was intuitive
+JOB-E-8KR-60,2025-05-25,op_1,2,Needs better alerts
+JOB-G-2H4-60,2025-05-24,op_2,4,Unexpected failure
+JOB-P-XRH-0,2025-05-24,op_3,1,Unexpected failure
+JOB-Y-09D-100,2025-05-18,op_2,4,Some delay observed
+JOB-Z-VWS-40,2025-05-29,op_1,4,Needs better alerts
+JOB-T-T49-0,2025-05-13,op_1,2,Some delay observed
+JOB-H-CJI-0,2025-05-28,op_1,5,Great predictive accuracy
+JOB-E-8KR-0,2025-05-18,op_1,1,Great predictive accuracy
+JOB-B-3OR-0,2025-05-25,op_1,1,Some delay observed
+JOB-J-Z28-40,2025-05-12,op_2,4,Some delay observed
