@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:34.164746",
+    "machine_id": "O-IKW",
+    "temperature": 77.19,
+    "vibration": 2.63,
+    "rpm": 2565,
+    "pressure": 7.75,
+    "humidity": 55.29,
+    "voltage": 239.42,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164806",
+    "machine_id": "R-6AE",
+    "temperature": 67.84,
+    "vibration": 1.72,
+    "rpm": 2714,
+    "pressure": 5.71,
+    "humidity": 39.81,
+    "voltage": 249.32,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164813",
+    "machine_id": "B-MY9",
+    "temperature": 61.69,
+    "vibration": 2.31,
+    "rpm": 2775,
+    "pressure": 5.06,
+    "humidity": 33.27,
+    "voltage": 215.25,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164819",
+    "machine_id": "U-9RY",
+    "temperature": 99.2,
+    "vibration": 2.74,
+    "rpm": 3061,
+    "pressure": 5.25,
+    "humidity": 53.36,
+    "voltage": 244.05,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164825",
+    "machine_id": "M-8EP",
+    "temperature": 81.96,
+    "vibration": 1.83,
+    "rpm": 2648,
+    "pressure": 3.32,
+    "humidity": 35.79,
+    "voltage": 242.08,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164831",
+    "machine_id": "B-MY9",
+    "temperature": 76.33,
+    "vibration": 1.78,
+    "rpm": 2998,
+    "pressure": 6.69,
+    "humidity": 39.51,
+    "voltage": 248.44,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164835",
+    "machine_id": "S-5FZ",
+    "temperature": 93.54,
+    "vibration": 1.39,
+    "rpm": 2631,
+    "pressure": 4.76,
+    "humidity": 45.4,
+    "voltage": 222.3,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164842",
+    "machine_id": "S-5FZ",
+    "temperature": 89.51,
+    "vibration": 1.59,
+    "rpm": 2834,
+    "pressure": 4.95,
+    "humidity": 63.07,
+    "voltage": 237.42,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164846",
+    "machine_id": "C-87S",
+    "temperature": 98.47,
+    "vibration": 2.4,
+    "rpm": 3002,
+    "pressure": 4.19,
+    "humidity": 57.97,
+    "voltage": 244.91,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:34.164851",
+    "machine_id": "Z-9VU",
+    "temperature": 98.1,
+    "vibration": 1.32,
+    "rpm": 2577,
+    "pressure": 4.92,
+    "humidity": 35.22,
+    "voltage": 213.62,
+    "failure": 0
+  }
+]

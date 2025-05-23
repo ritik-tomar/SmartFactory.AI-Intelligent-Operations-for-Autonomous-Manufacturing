@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:22.161664",
+    "machine_id": "H-V4L",
+    "temperature": 88.74,
+    "vibration": 2.25,
+    "rpm": 2898,
+    "pressure": 4.77,
+    "humidity": 67.22,
+    "voltage": 232.37,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161724",
+    "machine_id": "E-W0O",
+    "temperature": 82.57,
+    "vibration": 0.74,
+    "rpm": 2737,
+    "pressure": 3.31,
+    "humidity": 36.46,
+    "voltage": 232.62,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161733",
+    "machine_id": "L-R7V",
+    "temperature": 82.96,
+    "vibration": 2.72,
+    "rpm": 2513,
+    "pressure": 3.1,
+    "humidity": 37.88,
+    "voltage": 230.95,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161739",
+    "machine_id": "R-6AE",
+    "temperature": 90.04,
+    "vibration": 0.87,
+    "rpm": 2546,
+    "pressure": 5.93,
+    "humidity": 31.61,
+    "voltage": 214.12,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161746",
+    "machine_id": "F-TR1",
+    "temperature": 91.91,
+    "vibration": 2.6,
+    "rpm": 2509,
+    "pressure": 6.08,
+    "humidity": 46.33,
+    "voltage": 245.34,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161751",
+    "machine_id": "G-09B",
+    "temperature": 84.04,
+    "vibration": 2.59,
+    "rpm": 2820,
+    "pressure": 5.11,
+    "humidity": 56.55,
+    "voltage": 239.18,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161757",
+    "machine_id": "U-QMA",
+    "temperature": 98.17,
+    "vibration": 2.21,
+    "rpm": 2542,
+    "pressure": 4.15,
+    "humidity": 45.53,
+    "voltage": 248.4,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161763",
+    "machine_id": "I-4ZH",
+    "temperature": 81.3,
+    "vibration": 0.68,
+    "rpm": 2925,
+    "pressure": 4.7,
+    "humidity": 33.01,
+    "voltage": 238.41,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161767",
+    "machine_id": "E-DIF",
+    "temperature": 83.45,
+    "vibration": 0.6,
+    "rpm": 2726,
+    "pressure": 4.76,
+    "humidity": 60.77,
+    "voltage": 218.4,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:22.161772",
+    "machine_id": "N-PR7",
+    "temperature": 85.27,
+    "vibration": 7.532847982391848,
+    "rpm": 2594,
+    "pressure": 7.26,
+    "humidity": 51.26,
+    "voltage": 228.41,
+    "failure": 1,
+    "note": "anomaly_injected"
+  }
+]

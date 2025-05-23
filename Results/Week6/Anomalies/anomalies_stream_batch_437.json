@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-05-23T19:15:50.185002",
+    "machine_id": "X-PYA",
+    "temperature": 84.74,
+    "vibration": 1.34,
+    "rpm": 2679,
+    "pressure": 4.39,
+    "humidity": 37.3,
+    "voltage": 241.82,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 20.29 > 15.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:15:50.185005",
+    "machine_id": "M-8EP",
+    "temperature": 60.23,
+    "vibration": 1.19,
+    "rpm": 2577,
+    "pressure": 7.79,
+    "humidity": 47.25,
+    "voltage": 223.34,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 24.51 > 15.0",
+      "voltage": "\u0394 18.48 > 15",
+      "pressure": "\u0394 3.40 > 3.0"
+    }
+  }
+]

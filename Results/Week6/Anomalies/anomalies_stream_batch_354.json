@@ -1,0 +1,84 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:27.163081",
+    "machine_id": "H-YFR",
+    "temperature": 90.78,
+    "vibration": 1.63211284884498,
+    "rpm": 2654,
+    "pressure": 7.29,
+    "humidity": 65.07,
+    "voltage": 239.67,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "temperature": "\u0394 21.80 > 15.0",
+      "voltage": "\u0394 15.84 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:27.163094",
+    "machine_id": "E-833",
+    "temperature": 78.8,
+    "vibration": 2.21,
+    "rpm": 2568,
+    "pressure": 3.13,
+    "humidity": 38.51,
+    "voltage": 214.63,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 25.04 > 15",
+      "pressure": "\u0394 4.16 > 3.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:27.163100",
+    "machine_id": "L-R7V",
+    "temperature": 97.85,
+    "vibration": 6.935948138797411,
+    "rpm": 2869,
+    "pressure": 3.44,
+    "humidity": 69.82,
+    "voltage": 244.97,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 4.73 > 1.0",
+      "temperature": "\u0394 19.05 > 15.0",
+      "voltage": "\u0394 30.34 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:27.163107",
+    "machine_id": "B-MY9",
+    "temperature": 77.17,
+    "vibration": 1.03,
+    "rpm": 2980,
+    "pressure": 3.64,
+    "humidity": 66.6,
+    "voltage": 218.25,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 5.91 > 1.0",
+      "temperature": "\u0394 20.68 > 15.0",
+      "voltage": "\u0394 26.72 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:14:27.163111",
+    "machine_id": "G-2H4",
+    "temperature": 93.57,
+    "vibration": 2.84,
+    "rpm": 2603,
+    "pressure": 6.29,
+    "humidity": 41.64,
+    "voltage": 211.47,
+    "failure": 1,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.81 > 1.0",
+      "temperature": "\u0394 16.40 > 15.0"
+    }
+  }
+]

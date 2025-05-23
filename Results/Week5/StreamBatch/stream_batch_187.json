@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:11:40.120237",
+    "machine_id": "E-DIF",
+    "temperature": 70.96,
+    "vibration": 1.58,
+    "rpm": 2996,
+    "pressure": 3.11,
+    "humidity": 50.49,
+    "voltage": 220.86,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120298",
+    "machine_id": "L-U6X",
+    "temperature": 60.91,
+    "vibration": 2.4,
+    "rpm": 2678,
+    "pressure": 3.47,
+    "humidity": 54.25,
+    "voltage": 243.68,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120307",
+    "machine_id": "M-TZ4",
+    "temperature": 92.73,
+    "vibration": 1.22,
+    "rpm": 2792,
+    "pressure": 5.57,
+    "humidity": 60.05,
+    "voltage": 247.63,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120314",
+    "machine_id": "F-TR1",
+    "temperature": 95.42,
+    "vibration": 0.95,
+    "rpm": 2848,
+    "pressure": 3.55,
+    "humidity": 66.41,
+    "voltage": 236.35,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120320",
+    "machine_id": "C-87S",
+    "temperature": 69.25,
+    "vibration": 1.68,
+    "rpm": 2794,
+    "pressure": 5.75,
+    "humidity": 44.99,
+    "voltage": 211.88,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120324",
+    "machine_id": "Z-9VU",
+    "temperature": 78.88,
+    "vibration": 2.23,
+    "rpm": 2724,
+    "pressure": 6.13,
+    "humidity": 31.34,
+    "voltage": 237.54,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120330",
+    "machine_id": "R-A0T",
+    "temperature": 84.28,
+    "vibration": 2.21,
+    "rpm": 3086,
+    "pressure": 6.52,
+    "humidity": 56.61,
+    "voltage": 232.5,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120336",
+    "machine_id": "M-TZ4",
+    "temperature": 96.45,
+    "vibration": 2.53,
+    "rpm": 3009,
+    "pressure": 7.24,
+    "humidity": 44.63,
+    "voltage": 217.27,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120340",
+    "machine_id": "S-UCN",
+    "temperature": 65.57,
+    "vibration": 0.91,
+    "rpm": 3041,
+    "pressure": 7.29,
+    "humidity": 51.7,
+    "voltage": 210.75,
+    "failure": 1
+  },
+  {
+    "timestamp": "2025-05-23T19:11:40.120345",
+    "machine_id": "H-CJI",
+    "temperature": 76.23,
+    "vibration": 2.22,
+    "rpm": 2951,
+    "pressure": 3.48,
+    "humidity": 33.86,
+    "voltage": 229.37,
+    "failure": 0
+  }
+]

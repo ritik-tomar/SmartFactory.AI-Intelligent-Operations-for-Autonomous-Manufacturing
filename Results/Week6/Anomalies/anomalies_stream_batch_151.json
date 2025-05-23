@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2025-05-23T19:11:04.111250",
+    "machine_id": "X-4ED",
+    "temperature": 68.1,
+    "vibration": 1.75,
+    "rpm": 2803,
+    "pressure": 5.45,
+    "humidity": 60.79,
+    "voltage": 216.99,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 18.49 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:11:04.111255",
+    "machine_id": "E-HZH",
+    "temperature": 70.59,
+    "vibration": 3.2560088638906572,
+    "rpm": 2726,
+    "pressure": 5.31,
+    "humidity": 35.16,
+    "voltage": 210.35,
+    "failure": 1,
+    "note": "anomaly_injected",
+    "anomaly_details": {
+      "vibration": "\u0394 1.51 > 1.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:11:04.111263",
+    "machine_id": "H-CJI",
+    "temperature": 67.08,
+    "vibration": 1.66,
+    "rpm": 2957,
+    "pressure": 4.04,
+    "humidity": 38.95,
+    "voltage": 239.12,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.60 > 1.0",
+      "voltage": "\u0394 28.77 > 15"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:11:04.111269",
+    "machine_id": "R-A0T",
+    "temperature": 67.25,
+    "vibration": 2.22,
+    "rpm": 2838,
+    "pressure": 6.27,
+    "humidity": 56.33,
+    "voltage": 215.75,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "voltage": "\u0394 23.37 > 15"
+    }
+  }
+]

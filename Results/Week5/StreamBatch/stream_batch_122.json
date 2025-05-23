@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:10:35.103922",
+    "machine_id": "N-PR7",
+    "temperature": 68.89,
+    "vibration": 2.97,
+    "rpm": 2693,
+    "pressure": 3.05,
+    "humidity": 61.39,
+    "voltage": 235.5,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104010",
+    "machine_id": "H-P67",
+    "temperature": 90.89,
+    "vibration": 1.46,
+    "rpm": 2912,
+    "pressure": 6.61,
+    "humidity": 34.81,
+    "voltage": 225.78,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104018",
+    "machine_id": "Z-9VU",
+    "temperature": 85.6,
+    "vibration": 0.87,
+    "rpm": 3025,
+    "pressure": 5.55,
+    "humidity": 32.22,
+    "voltage": 240.32,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104024",
+    "machine_id": "X-PYA",
+    "temperature": 78.44,
+    "vibration": 1.21,
+    "rpm": 2520,
+    "pressure": 5.68,
+    "humidity": 62.09,
+    "voltage": 242.54,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104030",
+    "machine_id": "V-221",
+    "temperature": 88.95,
+    "vibration": 0.85,
+    "rpm": 2742,
+    "pressure": 4.16,
+    "humidity": 50.92,
+    "voltage": 243.48,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104036",
+    "machine_id": "B-MY9",
+    "temperature": 67.0,
+    "vibration": 0.79,
+    "rpm": 2621,
+    "pressure": 6.72,
+    "humidity": 46.84,
+    "voltage": 237.74,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104041",
+    "machine_id": "A-M1A",
+    "temperature": 75.1,
+    "vibration": 2.23,
+    "rpm": 2737,
+    "pressure": 6.25,
+    "humidity": 66.31,
+    "voltage": 220.74,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104048",
+    "machine_id": "C-SGE",
+    "temperature": 89.14,
+    "vibration": 1.1,
+    "rpm": 2996,
+    "pressure": 7.3,
+    "humidity": 46.36,
+    "voltage": 235.41,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104054",
+    "machine_id": "Z-VWS",
+    "temperature": 61.89,
+    "vibration": 1.22,
+    "rpm": 2787,
+    "pressure": 7.21,
+    "humidity": 60.14,
+    "voltage": 226.81,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:10:35.104060",
+    "machine_id": "B-3OR",
+    "temperature": 88.59,
+    "vibration": 2.71,
+    "rpm": 3035,
+    "pressure": 4.63,
+    "humidity": 52.38,
+    "voltage": 236.69,
+    "failure": 0
+  }
+]

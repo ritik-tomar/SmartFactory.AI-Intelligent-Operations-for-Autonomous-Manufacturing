@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-05-23T19:11:51.123147",
+    "machine_id": "Y-09D",
+    "temperature": 97.44,
+    "vibration": 2.44,
+    "rpm": 2576,
+    "pressure": 3.66,
+    "humidity": 43.39,
+    "voltage": 236.92,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.86 > 1.0",
+      "temperature": "\u0394 28.24 > 15.0"
+    }
+  }
+]

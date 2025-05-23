@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-05-23T19:14:01.156173",
+    "machine_id": "O-9DS",
+    "temperature": 60.07,
+    "vibration": 1.77,
+    "rpm": 2789,
+    "pressure": 6.72,
+    "humidity": 62.03,
+    "voltage": 223.56,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156241",
+    "machine_id": "A-M1A",
+    "temperature": 79.76,
+    "vibration": 0.97,
+    "rpm": 2795,
+    "pressure": 7.42,
+    "humidity": 43.6,
+    "voltage": 232.19,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156250",
+    "machine_id": "B-MY9",
+    "temperature": 87.15,
+    "vibration": 1.22,
+    "rpm": 2778,
+    "pressure": 5.48,
+    "humidity": 44.81,
+    "voltage": 248.8,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156258",
+    "machine_id": "Z-VM5",
+    "temperature": 76.72,
+    "vibration": 1.43,
+    "rpm": 2525,
+    "pressure": 5.95,
+    "humidity": 48.48,
+    "voltage": 229.24,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156264",
+    "machine_id": "F-TR1",
+    "temperature": 72.68,
+    "vibration": 2.9,
+    "rpm": 2706,
+    "pressure": 4.42,
+    "humidity": 63.6,
+    "voltage": 219.95,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156269",
+    "machine_id": "S-5FZ",
+    "temperature": 62.23,
+    "vibration": 1.58,
+    "rpm": 2685,
+    "pressure": 3.35,
+    "humidity": 39.88,
+    "voltage": 220.39,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156274",
+    "machine_id": "E-HZH",
+    "temperature": 75.56,
+    "vibration": 2.57,
+    "rpm": 2606,
+    "pressure": 7.49,
+    "humidity": 50.89,
+    "voltage": 243.79,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156279",
+    "machine_id": "L-U6X",
+    "temperature": 76.67,
+    "vibration": 1.46,
+    "rpm": 2799,
+    "pressure": 5.79,
+    "humidity": 65.7,
+    "voltage": 246.69,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156284",
+    "machine_id": "Y-09D",
+    "temperature": 79.86,
+    "vibration": 2.03,
+    "rpm": 2905,
+    "pressure": 5.47,
+    "humidity": 30.75,
+    "voltage": 226.97,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:14:01.156290",
+    "machine_id": "E-DIF",
+    "temperature": 94.15,
+    "vibration": 0.75,
+    "rpm": 2995,
+    "pressure": 3.39,
+    "humidity": 40.63,
+    "voltage": 244.55,
+    "failure": 0
+  }
+]

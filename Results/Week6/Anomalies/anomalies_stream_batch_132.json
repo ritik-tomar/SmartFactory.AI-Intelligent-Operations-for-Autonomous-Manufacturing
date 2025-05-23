@@ -1,0 +1,17 @@
+[
+  {
+    "timestamp": "2025-05-23T19:10:45.106458",
+    "machine_id": "P-XRH",
+    "temperature": 66.97,
+    "vibration": 0.93,
+    "rpm": 2932,
+    "pressure": 5.83,
+    "humidity": 59.0,
+    "voltage": 229.51,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.75 > 1.0"
+    }
+  }
+]

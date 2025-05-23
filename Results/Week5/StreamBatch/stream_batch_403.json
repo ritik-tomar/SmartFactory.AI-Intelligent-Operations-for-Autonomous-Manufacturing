@@ -1,0 +1,113 @@
+[
+  {
+    "timestamp": "2025-05-23T19:15:16.175369",
+    "machine_id": "U-QMA",
+    "temperature": 69.33,
+    "vibration": 0.81,
+    "rpm": 2511,
+    "pressure": 5.27,
+    "humidity": 49.39,
+    "voltage": 228.96,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175425",
+    "machine_id": "I-4ZH",
+    "temperature": 98.64,
+    "vibration": 3.9682659479942735,
+    "rpm": 2953,
+    "pressure": 3.55,
+    "humidity": 51.6,
+    "voltage": 210.81,
+    "failure": 1,
+    "note": "anomaly_injected"
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175439",
+    "machine_id": "J-Z28",
+    "temperature": 71.07,
+    "vibration": 2.68,
+    "rpm": 2746,
+    "pressure": 7.57,
+    "humidity": 52.87,
+    "voltage": 218.73,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175475",
+    "machine_id": "L-TK6",
+    "temperature": 72.01,
+    "vibration": 0.98,
+    "rpm": 2781,
+    "pressure": 5.86,
+    "humidity": 32.03,
+    "voltage": 214.94,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175479",
+    "machine_id": "W-NW7",
+    "temperature": 67.79,
+    "vibration": 1.99,
+    "rpm": 2699,
+    "pressure": 5.62,
+    "humidity": 43.38,
+    "voltage": 211.58,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175483",
+    "machine_id": "R-6AE",
+    "temperature": 64.39,
+    "vibration": 1.79,
+    "rpm": 2762,
+    "pressure": 5.17,
+    "humidity": 44.71,
+    "voltage": 212.94,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175486",
+    "machine_id": "B-3OR",
+    "temperature": 94.54,
+    "vibration": 2.1,
+    "rpm": 2881,
+    "pressure": 5.68,
+    "humidity": 33.29,
+    "voltage": 235.69,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175489",
+    "machine_id": "A-M1A",
+    "temperature": 60.38,
+    "vibration": 1.45,
+    "rpm": 2755,
+    "pressure": 6.18,
+    "humidity": 32.24,
+    "voltage": 210.29,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175493",
+    "machine_id": "X-PYA",
+    "temperature": 80.24,
+    "vibration": 2.99,
+    "rpm": 2890,
+    "pressure": 7.87,
+    "humidity": 36.14,
+    "voltage": 238.74,
+    "failure": 0
+  },
+  {
+    "timestamp": "2025-05-23T19:15:16.175496",
+    "machine_id": "S-UCN",
+    "temperature": 66.18,
+    "vibration": 1.07,
+    "rpm": 2773,
+    "pressure": 5.1,
+    "humidity": 37.07,
+    "voltage": 245.65,
+    "failure": 0
+  }
+]

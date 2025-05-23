@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-05-23T19:13:36.150147",
+    "machine_id": "Y-09D",
+    "temperature": 93.27,
+    "vibration": 2.53,
+    "rpm": 2894,
+    "pressure": 7.61,
+    "humidity": 43.21,
+    "voltage": 230.81,
+    "failure": 1,
+    "note": NaN,
+    "anomaly_details": {
+      "temperature": "\u0394 26.34 > 15.0",
+      "pressure": "\u0394 4.25 > 3.0"
+    }
+  },
+  {
+    "timestamp": "2025-05-23T19:13:36.150152",
+    "machine_id": "V-221",
+    "temperature": 72.8,
+    "vibration": 1.09,
+    "rpm": 2621,
+    "pressure": 6.3,
+    "humidity": 35.37,
+    "voltage": 236.22,
+    "failure": 0,
+    "note": NaN,
+    "anomaly_details": {
+      "vibration": "\u0394 1.44 > 1.0",
+      "temperature": "\u0394 20.47 > 15.0"
+    }
+  }
+]
